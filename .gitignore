@@ -2,5 +2,8 @@
 #Azure folder
 Azure/
 
+#Image folder
+Images/
+
 #VSCode config
 .vscode/
